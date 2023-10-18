@@ -1,0 +1,8 @@
+.special-image{
+    height: 200px;
+    width: 200px;
+}
+.special-list{
+    border: 1px solid blueviolet;
+    margin-top: 10px;
+}

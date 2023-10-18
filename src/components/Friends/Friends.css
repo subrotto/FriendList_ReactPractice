@@ -1,0 +1,33 @@
+
+
+.frnd{
+    border: 1px solid palevioletred;
+    padding: 10px;
+    border-radius: 10px;
+}
+.frnd:hover{
+    background-color: rgb(120, 116, 116);
+    color: white;
+}
+.frnd:hover button{
+    background-color: lightgray;
+    color: white;
+}
+
+
+.image{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+}
+.btn{
+    
+    border: 1px solid;
+    border-radius: 10px;
+}
+.btn:hover{
+    
+   background-color: lightgray;
+   color: white;
+}

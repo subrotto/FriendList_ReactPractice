@@ -1,0 +1,14 @@
+.club{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.friends{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+.special{
+    border: 1px solid purple;
+    margin-left: 10px;
+    
+}
